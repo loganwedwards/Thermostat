@@ -1,4 +1,4 @@
-Arduino-Adjustable-Temperature-Controller
+Thermostat - an Arduino-based temperature controller
 =========================================
 
 README
